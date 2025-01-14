@@ -1,0 +1,33 @@
+{
+    "title": "Azon Documentation",
+    "description": "Official documentation for the Azon decentralized AI agent network",
+    "author": "Azon Network",
+    "language": "en",
+    "structure": {
+        "readme": "docs/README.md"
+    },
+    "plugins": [
+        "theme-default",
+        "hints",
+        "code",
+        "copy-code-button",
+        "expandable-chapters",
+        "heading-anchors",
+        "page-toc",
+        "github"
+    ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/AIDeveloper2/Azon"
+        },
+        "theme-default": {
+            "showLevel": true
+        }
+    },
+    "links": {
+        "sidebar": {
+            "Azon Website": "https://azon.network",
+            "GitHub": "https://github.com/AIDeveloper2/Azon"
+        }
+    }
+} 
